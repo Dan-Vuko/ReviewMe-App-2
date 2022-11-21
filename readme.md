@@ -61,6 +61,7 @@ sudo apt install python3
    ![](https://i.ibb.co/18ybX9R/carbon-2.png)
 
 4. If the user selects 3, the program will exit.
+
    ![](https://i.ibb.co/HrGHQd5/carbon-3.png)
 
 ## Improvements to be made
