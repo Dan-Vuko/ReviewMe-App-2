@@ -52,12 +52,15 @@ sudo apt install python3
 ## Running the Program
 
 1. After initialisation of the program, the user is prompted to pick a selection from the menu to determine what they would like the program would do for them.
+2. 
    ![](https://i.ibb.co/SmvHsWL/carbon.png)
 
 2. If the user selects "1" the program will prompt the user to input the name of the restaurant, once the user does this, the program will print the restaurant name rating.
+3. 
    ![](https://i.ibb.co/ryQnYxT/carbon-1.png)
 
 3. If the user selects 2, the program will prompt the user to input the number of restaurants so it can print the top restaurants in descending order.
+4. 
    ![](https://i.ibb.co/18ybX9R/carbon-2.png)
 
 4. If the user selects 3, the program will exit.
